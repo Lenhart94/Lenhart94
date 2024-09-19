@@ -6,8 +6,7 @@
 - 😄 Pronouns: he/ Him
 - ⚡ Fun fact: I like Japanese culture and I practice kendo.
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-
+[![Anurag' GitHub stats](https://github-readme-stats.vercel.app/api?username=Lenhart94)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 Lenhart94/Lenhart94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
